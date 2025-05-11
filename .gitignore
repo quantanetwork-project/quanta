@@ -19,3 +19,15 @@ Makefile.in
 src/quantad
 src/quanta-cli
 src/quanta-tx
+build/
+*.o
+*.log
+*.tmp
+*.db
+*.out
+*.bin
+*.exe
+*.pyc
+*.class
+.DS_Store
+*.swp
